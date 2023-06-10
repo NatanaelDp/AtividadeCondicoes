@@ -1,0 +1,8 @@
+C:\Users\natan\source\repos\ConraditoAirlines\ConraditoAirlines\bin\Debug\ConraditoAirlines.exe.config
+C:\Users\natan\source\repos\ConraditoAirlines\ConraditoAirlines\bin\Debug\ConraditoAirlines.exe
+C:\Users\natan\source\repos\ConraditoAirlines\ConraditoAirlines\bin\Debug\ConraditoAirlines.pdb
+C:\Users\natan\source\repos\ConraditoAirlines\ConraditoAirlines\obj\Debug\ConraditoAirlines.csproj.AssemblyReference.cache
+C:\Users\natan\source\repos\ConraditoAirlines\ConraditoAirlines\obj\Debug\ConraditoAirlines.csproj.SuggestedBindingRedirects.cache
+C:\Users\natan\source\repos\ConraditoAirlines\ConraditoAirlines\obj\Debug\ConraditoAirlines.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\ConraditoAirlines\ConraditoAirlines\obj\Debug\ConraditoAirlines.exe
+C:\Users\natan\source\repos\ConraditoAirlines\ConraditoAirlines\obj\Debug\ConraditoAirlines.pdb
