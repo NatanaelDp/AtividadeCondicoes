@@ -48,20 +48,13 @@ namespace ConraditoAirlines
             Console.WriteLine("•Manhã");
             Console.WriteLine("•Noite");
             string periodo = Console.ReadLine();
-            if (periodo == "Noite" || periodo == "Manhã" || periodo == "Tarde")
+            if (periodo == "Noite" || periodo == "Manhã" || periodo == "Tarde" || periodo == "noite" || periodo == "manhã" || periodo == "tarde")
             {
 
                 Console.WriteLine($"Parabéns sua passagem foi comprada com sucesso no dia {dia}, mês {mes} e período {periodo} ");
 
             }
-            if (periodo == "noite" || periodo == "manhã" || periodo == "tarde")
-            {
-
-
-                Console.WriteLine("Período inválido!");
-                Main(null);
-                return;
-            }
+           
 
             Console.ReadKey();
 
